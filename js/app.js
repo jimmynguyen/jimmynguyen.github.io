@@ -4,7 +4,7 @@
         NAME: {
             ID   : "#name",
             VALUE: "Richard Linares",
-            LENGTH: 12
+            LENGTH: 15
         },
         CURSOR: {
             ID    : "#cursor",
