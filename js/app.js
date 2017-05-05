@@ -3,7 +3,7 @@
     var ELEMENTS = {
         NAME: {
             ID   : "#name",
-            VALUE: "Jimmy Nguyen",
+            VALUE: "Richard Linares",
             LENGTH: 12
         },
         CURSOR: {
