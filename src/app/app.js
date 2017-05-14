@@ -42,6 +42,12 @@
         FLASH_SPEED: 500 // milliseconds
     };
 
+    var TERMINAL = {
+        ID   : "#terminal",
+        VALUE: "$ ",
+        IS_RENDERED: false
+    };
+
     var CONTENTS = {
         RENDER_SPEED: 50, // milliseconds
         STACK: [],
@@ -59,11 +65,15 @@
             } else {
                 // continue rendering if there are still elements on the stack
                 if (CONTENTS.STACK.length > 0) {
-                    $("#cursor").remove();
+                    $(CURSOR.ID).remove();
                     CONTENTS.render(0, ELEMENTS[CONTENTS.STACK.shift()]);
                 } else {
-                    $("#cursor").remove();
-                    // CONTENTS.flash_cursor();
+                    if (!TERMINAL.IS_RENDERED) {
+                        TERMINAL.IS_RENDERED = true;
+                        $(CURSOR.ID).remove();
+                        CONTENTS.render(0, TERMINAL);
+                        CONTENTS.flash_cursor();
+                    }
                 }
             }
         },
@@ -81,6 +91,25 @@
     };
 
     $(document).ready(function() {
+        // initialize terminal
+        document.onkeydown = function(e) {
+            e = e || window.event;
+            if (CONTENTS.STACK.length <= 0) {
+                if (!e.ctrlKey && e.keyCode == 8) {
+                    $(CURSOR.ID).remove();
+                    var value = $(TERMINAL.ID).html();
+                    if (value.length > 2) {
+                        value = value.substring(0, value.length - 1);
+                    }
+                    $(TERMINAL.ID).html(value + CURSOR.VALUE);
+                } else if (!e.ctrlKey && ((e.keyCode >= 48 && e.keyCode <= 57) || (e.keyCode >= 65 && e.keyCode <= 90))) {
+                    $(CURSOR.ID).remove();
+                    $(TERMINAL.ID).html($(TERMINAL.ID).html() + e.key + CURSOR.VALUE);
+                } else {
+                    console.log(e);
+                }
+            }
+        }
         // push elements to render onto stack
         CONTENTS.STACK = Object.keys(ELEMENTS);
         // render elements
