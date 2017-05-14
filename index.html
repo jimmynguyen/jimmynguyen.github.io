@@ -9,6 +9,7 @@
     <title>Jimmy Nguyen</title>
 
     <!-- css -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="src/css/style.css">
 
     <!--[if lt IE 9]>
@@ -17,14 +18,43 @@
 </head>
 
 <body>
-    <span id="name"><span id="cursor" class="color-green">&#9611;</span></span>
-    <br/>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="column col-md-6">
+                <span id="name"><span id="cursor" class="color-green">&#9611;</span></span>
+                <br/>
+                <br/>
+                <span id="education"></span>
+                <br/>
+                <div class="row">
+                    <div class="col-md-7 col-md-offset-1">
+                        <span id="schoolName"></span>
+                    </div>
+                    <div class="col-md-4 text-right">
+                        <span id="schoolLocation"></span>
+                    </div>
+                    <div class="col-md-7 col-md-offset-1">
+                        <span id="schoolDegree1"></span>
+                    </div>
+                    <div class="col-md-4 text-right">
+                        <span id="schoolTimeRange1"></span>
+                    </div>
+                    <div class="col-md-7 col-md-offset-1">
+                        <span id="schoolDegree2"></span>
+                    </div>
+                    <div class="col-md-4 text-right">
+                        <span id="schoolTimeRange2"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="column col-md-6">
+            </div>
+        </div>
+    </div>
 
     <!-- javascript -->
-    <script
-      src="https://code.jquery.com/jquery-3.2.1.min.js"
-      integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-      crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <script type="text/javascript" src="src/app/app.js"></script>
 </body>
 </html>
