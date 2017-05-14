@@ -32,6 +32,10 @@
         SCHOOL_TIME_RANGE_2: {
             ID   : "#schoolTimeRange2",
             VALUE: "AUG 2012 - DEC 2017"
+        },
+        SKILLS: {
+            ID   : "#skills",
+            VALUE: "Skills"
         }
     };
 
@@ -49,7 +53,7 @@
     };
 
     var CONTENTS = {
-        RENDER_SPEED: 50, // milliseconds
+        RENDER_SPEED: 25, // milliseconds
         STACK: [],
         render: function(index, element) {
             if (index < element.VALUE.length) {
