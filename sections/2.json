@@ -1,0 +1,47 @@
+{
+    "id": 2,
+    "name": "education",
+    "fields": [{
+        "id": 1,
+        "value": "Education",
+        "text_align": "left",
+        "width": 12,
+        "offset": 0
+    }, {
+        "id": 2,
+        "value": "Georgia Institute of Technology",
+        "text_align": "left",
+        "width": 7,
+        "offset": 1
+    }, {
+        "id": 3,
+        "value": "Atlanta, GA",
+        "text_align": "right",
+        "width": 4,
+        "offset": 0
+    }, {
+        "id": 4,
+        "value": "B.S. in Biomedical Engineering",
+        "text_align": "left",
+        "width": 7,
+        "offset": 1
+    }, {
+        "id": 5,
+        "value": "AUG 2012 -  MAY 2017",
+        "text_align": "right",
+        "width": 4,
+        "offset": 0
+    }, {
+        "id": 6,
+        "value": "B.S. in Computer Science",
+        "text_align": "left",
+        "width": 7,
+        "offset": 1
+    }, {
+        "id": 7,
+        "value": "AUG 2012 -  DEC 2017",
+        "text_align": "right",
+        "width": 4,
+        "offset": 0
+    }]
+}

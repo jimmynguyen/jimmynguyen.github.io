@@ -95,6 +95,11 @@
     };
 
     $(document).ready(function() {
+        // test
+        $.getJSON("sections/1.json", function(json) {
+            console.log(json); // this will show the info it in firebug console
+        });
+
         // initialize terminal
         document.onkeydown = function(e) {
             e = e || window.event;
