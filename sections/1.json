@@ -2,10 +2,10 @@
     "id": 1,
     "name": "name",
     "fields": [{
-        "id": 1,
         "value": "Jimmy Nguyen",
-        "text_align": "left",
+        "align_right": false,
         "width": 12,
-        "offset": 0
+        "offset": 0,
+        "margin_top": 0
     }]
 }
