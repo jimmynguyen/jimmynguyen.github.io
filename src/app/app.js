@@ -43,67 +43,67 @@
         },
         section3skills3: {
             ID   : "#section3skills3",
-            VALUE: "AngularJS"
+            VALUE: "> AngularJS"
         },
         section3skills4: {
             ID   : "#section3skills4",
-            VALUE: "ASP.NET"
+            VALUE: "> ASP.NET"
         },
         section3skills5: {
             ID   : "#section3skills5",
-            VALUE: "Bootstrap"
+            VALUE: "> Bootstrap"
         },
         section3skills6: {
             ID   : "#section3skills6",
-            VALUE: "C#"
+            VALUE: "> C#"
         },
         section3skills7: {
             ID   : "#section3skills7",
-            VALUE: "CSS"
+            VALUE: "> CSS"
         },
         section3skills8: {
             ID   : "#section3skills8",
-            VALUE: "Git"
+            VALUE: "> Git"
         },
         section3skills9: {
             ID   : "#section3skills9",
-            VALUE: "JQuery"
+            VALUE: "> JQuery"
         },
         section3skills10: {
             ID   : "#section3skills10",
-            VALUE: "HTML"
+            VALUE: "> HTML"
         },
         section3skills11: {
             ID   : "#section3skills11",
-            VALUE: "JavaScript"
+            VALUE: "> JavaScript"
         },
         section3skills12: {
             ID   : "#section3skills12",
-            VALUE: "MATLAB"
+            VALUE: "> MATLAB"
         },
         section3skills13: {
             ID   : "#section3skills13",
-            VALUE: "NodeJS"
+            VALUE: "> NodeJS"
         },
         section3skills14: {
             ID   : "#section3skills14",
-            VALUE: "NPM"
+            VALUE: "> NPM"
         },
         section3skills15: {
             ID   : "#section3skills15",
-            VALUE: "MySQL"
+            VALUE: "> MySQL"
         },
         section3skills16: {
             ID   : "#section3skills16",
-            VALUE: "SQL Server Management Studio"
+            VALUE: "> SQL Server Management Studio"
         },
         section3skills17: {
             ID   : "#section3skills17",
-            VALUE: "T-SQL"
+            VALUE: "> T-SQL"
         },
         section3skills18: {
             ID   : "#section3skills18",
-            VALUE: "Visual Studio"
+            VALUE: "> Visual Studio"
         },
         section3skills19: {
             ID   : "#section3skills19",
@@ -111,39 +111,39 @@
         },
         section3skills20: {
             ID   : "#section3skills20",
-            VALUE: "FileMaker"
+            VALUE: "> FileMaker"
         },
         section3skills21: {
             ID   : "#section3skills21",
-            VALUE: "Java"
+            VALUE: "> Java"
         },
         section3skills22: {
             ID   : "#section3skills22",
-            VALUE: "LaTeX"
+            VALUE: "> LaTeX"
         },
         section3skills23: {
             ID   : "#section3skills23",
-            VALUE: "Markdown"
+            VALUE: "> Markdown"
         },
         section3skills24: {
             ID   : "#section3skills24",
-            VALUE: "PHP"
+            VALUE: "> PHP"
         },
         section3skills25: {
             ID   : "#section3skills25",
-            VALUE: "PHP"
+            VALUE: "> PHP"
         },
         section3skills26: {
             ID   : "#section3skills26",
-            VALUE: "SharePoint"
+            VALUE: "> SharePoint"
         },
         section3skills27: {
             ID   : "#section3skills27",
-            VALUE: "shell"
+            VALUE: "> shell"
         },
         section3skills28: {
             ID   : "#section3skills28",
-            VALUE: "VBA"
+            VALUE: "> VBA"
         },
         section3skills29: {
             ID   : "#section3skills29",
@@ -151,35 +151,35 @@
         },
         section3skills30: {
             ID   : "#section3skills30",
-            VALUE: "C"
+            VALUE: "> C"
         },
         section3skills31: {
             ID   : "#section3skills31",
-            VALUE: "C++"
+            VALUE: "> C++"
         },
         section3skills32: {
             ID   : "#section3skills32",
-            VALUE: "Python"
+            VALUE: "> Python"
         },
         section3skills33: {
             ID   : "#section3skills33",
-            VALUE: "Firebase"
+            VALUE: "> Firebase"
         },
         section3skills34: {
             ID   : "#section3skills34",
-            VALUE: "LabVIEW"
+            VALUE: "> LabVIEW"
         },
         section3skills35: {
             ID   : "#section3skills35",
-            VALUE: "SolidWorks"
+            VALUE: "> SolidWorks"
         },
         section3skills36: {
             ID   : "#section3skills36",
-            VALUE: "Vim"
+            VALUE: "> Vim"
         },
         section3skills37: {
             ID   : "#section3skills37",
-            VALUE: "WordPress"
+            VALUE: "> WordPress"
         },
         section4experience1: {
             ID   : "#section4experience1",

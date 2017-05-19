@@ -14,100 +14,100 @@
         "offset": 1,
         "margin_top": 0
     }, {
-        "value": "AngularJS",
+        "value": "> AngularJS",
         "align_right": false,
-        "width": 3,
-        "offset": 2,
+        "width": 5,
+        "offset": 1,
         "margin_top": 0
     }, {
-        "value": "ASP.NET",
+        "value": "> ASP.NET",
         "align_right": false,
-        "width": 3,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }, {
-        "value": "Bootstrap",
+        "value": "> Bootstrap",
         "align_right": false,
-        "width": 3,
+        "width": 5,
+        "offset": 1,
+        "margin_top": 0
+    }, {
+        "value": "> C#",
+        "align_right": false,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }, {
-        "value": "C#",
+        "value": "> CSS",
         "align_right": false,
-        "width": 3,
-        "offset": 2,
+        "width": 5,
+        "offset": 1,
         "margin_top": 0
     }, {
-        "value": "CSS",
+        "value": "> Git",
         "align_right": false,
-        "width": 3,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }, {
-        "value": "Git",
+        "value": "> JQuery",
         "align_right": false,
-        "width": 3,
+        "width": 5,
+        "offset": 1,
+        "margin_top": 0
+    }, {
+        "value": "> HTML",
+        "align_right": false,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }, {
-        "value": "JQuery",
+        "value": "> JavaScript",
         "align_right": false,
-        "width": 3,
-        "offset": 2,
+        "width": 5,
+        "offset": 1,
         "margin_top": 0
     }, {
-        "value": "HTML",
+        "value": "> MATLAB",
         "align_right": false,
-        "width": 3,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }, {
-        "value": "JavaScript",
+        "value": "> NodeJS",
         "align_right": false,
-        "width": 3,
+        "width": 5,
+        "offset": 1,
+        "margin_top": 0
+    }, {
+        "value": "> NPM",
+        "align_right": false,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }, {
-        "value": "MATLAB",
+        "value": "> MySQL",
         "align_right": false,
-        "width": 3,
-        "offset": 2,
+        "width": 5,
+        "offset": 1,
         "margin_top": 0
     }, {
-        "value": "NodeJS",
+        "value": "> SQL Server Management Studio",
         "align_right": false,
-        "width": 3,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }, {
-        "value": "NPM",
+        "value": "> T-SQL",
         "align_right": false,
-        "width": 3,
+        "width": 5,
+        "offset": 1,
+        "margin_top": 0
+    }, {
+        "value": "> Visual Studio",
+        "align_right": false,
+        "width": 5,
         "offset": 0,
-        "margin_top": 0
-    }, {
-        "value": "MySQL",
-        "align_right": false,
-        "width": 3,
-        "offset": 2,
-        "margin_top": 0
-    }, {
-        "value": "SQL Server Management Studio",
-        "align_right": false,
-        "width": 3,
-        "offset": 0,
-        "margin_top": 0
-    }, {
-        "value": "T-SQL",
-        "align_right": false,
-        "width": 3,
-        "offset": 0,
-        "margin_top": 0
-    }, {
-        "value": "Visual Studio",
-        "align_right": false,
-        "width": 3,
-        "offset": 2,
         "margin_top": 0
     }, {
         "value": "Intermediate Level",
@@ -116,58 +116,58 @@
         "offset": 1,
         "margin_top": 10
     }, {
-        "value": "FileMaker",
+        "value": "> FileMaker",
         "align_right": false,
-        "width": 3,
-        "offset": 2,
+        "width": 5,
+        "offset": 1,
         "margin_top": 0
     }, {
-        "value": "Java",
+        "value": "> Java",
         "align_right": false,
-        "width": 3,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }, {
-        "value": "LaTeX",
+        "value": "> LaTeX",
         "align_right": false,
-        "width": 3,
+        "width": 5,
+        "offset": 1,
+        "margin_top": 0
+    }, {
+        "value": "> Markdown",
+        "align_right": false,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }, {
-        "value": "Markdown",
+        "value": "> PHP",
         "align_right": false,
-        "width": 3,
-        "offset": 2,
+        "width": 5,
+        "offset": 1,
         "margin_top": 0
     }, {
-        "value": "PHP",
+        "value": "> PHP",
         "align_right": false,
-        "width": 3,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }, {
-        "value": "PHP",
+        "value": "> SharePoint",
         "align_right": false,
-        "width": 3,
+        "width": 5,
+        "offset": 1,
+        "margin_top": 0
+    }, {
+        "value": "> shell",
+        "align_right": false,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }, {
-        "value": "SharePoint",
+        "value": "> VBA",
         "align_right": false,
-        "width": 3,
-        "offset": 2,
-        "margin_top": 0
-    }, {
-        "value": "shell",
-        "align_right": false,
-        "width": 3,
-        "offset": 0,
-        "margin_top": 0
-    }, {
-        "value": "VBA",
-        "align_right": false,
-        "width": 3,
-        "offset": 0,
+        "width": 5,
+        "offset": 1,
         "margin_top": 0
     }, {
         "value": "Basic Level",
@@ -176,51 +176,51 @@
         "offset": 1,
         "margin_top": 10
     }, {
-        "value": "C",
+        "value": "> C",
         "align_right": false,
-        "width": 3,
-        "offset": 2,
+        "width": 5,
+        "offset": 1,
         "margin_top": 0
     }, {
-        "value": "C++",
+        "value": "> C++",
         "align_right": false,
-        "width": 3,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }, {
-        "value": "Python",
+        "value": "> Python",
         "align_right": false,
-        "width": 3,
+        "width": 5,
+        "offset": 1,
+        "margin_top": 0
+    }, {
+        "value": "> Firebase",
+        "align_right": false,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }, {
-        "value": "Firebase",
+        "value": "> LabVIEW",
         "align_right": false,
-        "width": 3,
-        "offset": 2,
+        "width": 5,
+        "offset": 1,
         "margin_top": 0
     }, {
-        "value": "LabVIEW",
+        "value": "> SolidWorks",
         "align_right": false,
-        "width": 3,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }, {
-        "value": "SolidWorks",
+        "value": "> Vim",
         "align_right": false,
-        "width": 3,
-        "offset": 0,
+        "width": 5,
+        "offset": 1,
         "margin_top": 0
     }, {
-        "value": "Vim",
+        "value": "> WordPress",
         "align_right": false,
-        "width": 3,
-        "offset": 2,
-        "margin_top": 0
-    }, {
-        "value": "WordPress",
-        "align_right": false,
-        "width": 3,
+        "width": 5,
         "offset": 0,
         "margin_top": 0
     }]
