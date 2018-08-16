@@ -1,0 +1,33 @@
+ADP                                                               Alpharetta, GA
+ASSOCIATE APPLICATION DEVELOPER                               May 2017 - Present
+* Worked with agile development team to enhance and maintain Java web
+  application.
+* Developed REST API using Spring Framework, Swagger, and Maven.
+
+WellStar Health System Inc                                           Atlanta, GA
+IT STUDENT INTERN                                            Aug 2016 - May 2017
+* Contributed to the design, programming, and testing of applications.
+* Assisted with the research and analysis of operational IT request and needs.
+* Responded to user requests for service, and troubleshoot reported problems.
+* Assisted with project management task.
+* Performed other IT activities as appropriate.
+
+Institute of Nuclear Power Operations                                Atlanta, GA
+SOFTWARE DEVELOPER CO-OP                                     Jan 2015 - May 2017
+* Developed Windows client and web-based sofware using .NET Framework, Visual
+  Studio, and Team Foundation Server.
+* Enhanced and maintained existing ASP applications.
+* Programmed SQL data retrieval language from Microsof SQL Server databases.
+
+Laboratory of Lymphatic Biology and Bioengineering, Georgia Tech     Atlanta, GA
+RESEARCH ASSISTANT                                           Jan 2016 - May 2016
+* Worked on a team of five to develop an early-stage diagnostic tool for
+  lymphedema in MATLAB using the Xbox Kinect.
+
+Intradiem                                                         Alpharetta, GA
+SOFTWARE ENGINEERING INTERN                                  May 2015 - Aug 2015
+* Upgraded code base to Visual Studio 2013 and .NET Framework 4.5.2.
+* Implemented session management features.
+* Maintained different versions of the product using .NET Framework, Visual
+  Studio, and Team Foundation Server.
+* Created automated build for Visual Studio solutions using TeamCity
